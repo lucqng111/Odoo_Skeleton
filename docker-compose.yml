@@ -3,7 +3,6 @@ version: "3.9"
 services:
   odoo:
     image: lucqng111/luc-odoo14
-    # build: ./box
     ports:
       - "8069:8069"
     volumes:
