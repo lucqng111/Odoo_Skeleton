@@ -2,7 +2,3 @@
 	path = odoo
 	url = https://git@github.com/odoo/odoo.git
 	branch = 14.0
-[submodule "enterprise"]
-	path = enterprise
-	url = https://novobi-git:mNGm5cKTb3sJKf3m@github.com/odoo/enterprise.git
-	branch = 14.0
