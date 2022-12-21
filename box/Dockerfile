@@ -1,7 +1,3 @@
-#FROM novobidevops/odoo:14
-# FROM novobidevops/odoo:13
-# FROM novobidevops/odoo:12
-
 # Example 1
 # RUN pip3 install --no-cache-dir paramiko
 
